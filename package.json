@@ -1,0 +1,27 @@
+{
+  "name": "chousei-san-clone---event-scheduler",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "https://NK-xxx.github.io/chousei-kun-event-scheduler",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.525.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "gh-pages": "^5.0.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.2.0"
+  }
+}

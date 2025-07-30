@@ -1,0 +1,5 @@
+{
+  "name": "Chousei-san Clone - Event Scheduler",
+  "description": "A simple and convenient tool for scheduling events and coordinating availability among participants. Create an event, share the link, and see everyone's responses in a clear table.",
+  "requestFramePermissions": []
+}

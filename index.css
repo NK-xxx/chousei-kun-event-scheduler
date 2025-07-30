@@ -1,0 +1,15 @@
+/* index.css */
+
+/* Tailwind をビルド時に入れたい場合（CDN ではなく PostCSS で使うなら）*/
+// @tailwind base;
+// @tailwind components;
+// @tailwind utilities;
+
+/* サイト全体のリセット例 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* カスタムがあればここに追記 */
